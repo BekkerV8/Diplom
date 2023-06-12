@@ -48,8 +48,8 @@
 
 [План автоматизации тестирования](https://github.com/BekkerV8/Diplom/blob/master/Plan.md)
 
-[Чек-лист](https://docs.google.com/spreadsheets/d/108U0pIvRVUKmyZ66_JXk137QTIpokx1ICDmeltkSfqU/edit?usp=sharing)
+[Чек-лист](https://docs.google.com/spreadsheets/d/1Z753d42u6yaoEJ8OsW5gKqcFm4auGYG6bg61_7h17Kc/edit#gid=0)
 
-[Тест-кейсы](https://docs.google.com/spreadsheets/d/1NPwwC4L70-sr8yxloT6qpb_6IBtOf0yUvQYFfxX0nWQ/edit?usp=sharing)
+[Тест-кейсы](https://docs.google.com/spreadsheets/d/14xJCC-7HeyT0kMnIz_qMir1u4qIOURAWST0dJohcpXM/edit#gid=0)
 
 [Отчёт о проведённом тестировании](https://github.com/BekkerV8/Diplom/blob/master/Result.md)
