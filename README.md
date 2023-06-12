@@ -19,7 +19,7 @@
 
 **2.** Склонировать репозиторий
 
-   [ https://github.com/BekkerV8/QaMidDiplom   ](https://github.com/BekkerV8/Diplom)  
+   [ https://github.com/BekkerV8/Diplom   ](https://github.com/BekkerV8/Diplom)  
 
 ### **Инструкция по запуску**
  
